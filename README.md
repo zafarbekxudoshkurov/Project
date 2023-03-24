@@ -1,1 +1,1 @@
-# paint-github-0d922
+# paint
